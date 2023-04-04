@@ -1,4 +1,4 @@
-export const hideSectionsOnClick = () => {
+ const hideSectionsOnClick = () => {
   const listSection = document.getElementById('all-books');
   const addNewSection = document.getElementById('add-book');
   const contactSection = document.getElementById('contact-us');
@@ -22,3 +22,5 @@ export const hideSectionsOnClick = () => {
     contactSection.style.display = 'flex';
   });
 };
+
+export default hideSectionsOnClick();

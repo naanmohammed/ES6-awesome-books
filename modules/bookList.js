@@ -1,4 +1,4 @@
-export class BookList {
+export default class BookList {
   constructor(bookListElement, addBookFormElement, titleInputElement, authorInput) {
     this.bookListElement = bookListElement;
     this.addBookFormElement = addBookFormElement;
@@ -9,6 +9,7 @@ export class BookList {
     this.updateBookList();
     this.addBookFormElement.addEventListener('submit', (event) => this.add(event));
   }
+
   loadBooks = () => {
     const storedBooks = JSON.parse(localStorage.getItem('books'));
     if (storedBooks) {
@@ -18,6 +19,7 @@ export class BookList {
       }));
     }
   }
+
   add = (event) => {
     event.preventDefault();
     const title = this.titleInputElement.value;
@@ -29,10 +31,12 @@ export class BookList {
     this.updateBookList();
     alert(`Book "${title}" by "${author}" has been added.`);
   }
+
   removeBook = (title) => {
     this.books = this.books.filter((book) => book.title !== title);
     this.updateBookList();
   }
+
   updateBookList = () => {
     this.bookListElement.innerHTML = '';
     this.books.forEach((book) => {
