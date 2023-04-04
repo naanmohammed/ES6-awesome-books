@@ -53,7 +53,7 @@ HTML, CSS, and Javascript
 
 ### Live Demo
 A live demo of this project can be found at :
-  https://naanmohammed.github.io/es6-awesome-books/
+  https://naanmohammed.github.io/ES6-awesome-books/
 
 <!-- GETTING STARTED -->
 
