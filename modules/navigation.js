@@ -21,4 +21,4 @@ export const hideSectionsOnClick = () => {
     contactSection.classList.add('show');
     contactSection.style.display = 'flex';
   });
-}
+};
