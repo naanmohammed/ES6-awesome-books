@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>GDG Addis README</b></h3>
+  <h3><b>ES6 AWESOME BOOKS README</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,40 +29,31 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 GDG Addis Website <a name="about-project"></a>
+# 📖 ES6 Awesome Books Website <a name="about-project"></a>
 
-
-GDG Addis is a project designed to setup an informative tech conference site using concepts studied on Module 1.
+ES6 AWESOME BOOKS IS A WEBSITE DESIGNED TO MANAGE BOOKS AND ADD/REMOVE THEM AT CONVENIENCE.
 
 ## 🛠 Built With <a name="built-with"></a> 
 HTML, CSS, Javascript, and GitHub pages
 
 ### Tech Stack <a name="tech-stack"></a> 
-HTML, CSS, Bootstrap, and Javascript
-
-<!-- Project Presntation -->
-
-## :Tech Conference: Project Presentation <a name="project-presentation"></a>
-
-Walking through website outline.
-
-- [Project Presentation Link] [https://www.loom.com/share/a8ed7e476b0b4e5ebf4cbe74eccfa8f0)
+HTML, CSS, and Javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- Displays an informative site for the GDG Addis Conference held in Addis Ababa
-- Ability to navigate through speakers.
-- Ability to view sponsors
+- Displays a website to view books, add them and remove them.
+- Displays current date below navigation bar.
+- Modular and well structured code.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Demo
 A live demo of this project can be found at :
-  https://naanmohammed.github.io/gdg-addis/
+  https://naanmohammed.github.io/es6-awesome-books/
 
 <!-- GETTING STARTED -->
 
@@ -83,13 +74,13 @@ In order to run this project you need:
 
     - Clone this repository to your desired folder.
             -cd my-folder
-            -git clone git@github.com:naanmohammed/My-Portfolio.git
+            -git clone git@github.com:naanmohammed/es6-awesome-books.git
 
 ### Install
 
 Install this project with:
-    -No installation required.
-    -Double click index.html to open it if you have a browser installed.(Google Chrome recommended)
+    - npm install to install local dependencies
+    - Double click index.html to open it if you have a browser installed.(Google Chrome recommended)
 
 ### Usage
 
@@ -124,17 +115,13 @@ You can deploy this project using:
 - Twitter: [@_naanahmed](https://twitter.com/twitterhandle)
 - LinkedIn: [naanahmed](https://linkedin.com/in/naanahmed)
 
-## 👥 Original Design <a name="authors"></a>
-👤 **Cindy Shin**
-- Behance: https://www.behance.net/adagio07
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add embedded sample videos from the speakers.**
+- [ ] **Add ability to move books into trash before complete deletion.**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -145,7 +132,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/naanmohammed/gdg-addis/issues).
+Feel free to check the [issues page](https://github.com/naanmohammed/ES6-awesome-books/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +148,7 @@ If you like this project, please star it and send me a message on LinkedIn.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Abiola(https://github.com/abiola-arobieke) for his support in the project.
+I would like to thank my learning partner for the week, Federica (https://github.com/federicaulzurrun) for the suggestions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
