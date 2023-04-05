@@ -101,7 +101,24 @@ input {
   justify-content: center;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
 footer {
+  height: 50px;
   border: 2px black solid;
   padding-left: 20px;
+  text-align: center;
 }

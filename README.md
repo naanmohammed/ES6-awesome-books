@@ -52,8 +52,8 @@ HTML, CSS, and Javascript
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Demo
-A live demo of this project can be found at :
-  https://naanmohammed.github.io/ES6-awesome-books/
+A live demo of this project is coming soon at :
+  
 
 <!-- GETTING STARTED -->
 
