@@ -52,7 +52,7 @@ HTML, CSS, and Javascript
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Demo
-A live demo of this project is coming soon at :
+A live demo of this project will soon be available on netlify.
   
 
 <!-- GETTING STARTED -->
