@@ -10,6 +10,5 @@ const authorInput = document.getElementById('author-input');
 const bookList = new BookList(bookListElement, addBookFormElement, titleInputElement, authorInput);
 bookList.loadBooks();
 
-hideSectionsOnClick();
-
 window.addEventListener('load', displayDate);
+window.addEventListener('load', hideSectionsOnClick);
